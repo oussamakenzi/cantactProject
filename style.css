@@ -1,0 +1,100 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.navbar{
+    border-bottom: 1px rgb(68, 68, 68) solid ;
+}
+#active{
+  
+    font-weight: bold;
+}
+
+.account{
+    
+    display: flex;
+}
+.cantact{
+
+   
+    margin-top: 20px;
+    margin-left: 20px;
+    border-right: 1px solid rgb(54, 53, 53);
+    width: 30%;
+   
+}
+#for{
+margin-bottom: 20px;
+width: 300px;
+height: 30px;
+border-radius: 30px;
+background-color: #1b8bed;
+border: none;
+}
+.text-content{
+    padding:8px;
+    
+    
+}
+.name{
+    font-weight: bold;
+
+}
+.work{
+    margin-top: -20px;
+    opacity: 50%;
+}
+
+
+.cont{
+    display: inline-block;
+}
+
+.canta{
+   display: flex;
+
+}
+.cantacts{
+  height: 100px;
+  background-color: brown;
+  width: 30%;
+}
+
+.ba{
+    display: flex;
+    justify-content: space-between;
+}
+#add{
+   
+    font-size: 20px;
+    background-color:blue;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    height: 30px;
+    width: 50px;
+}
+.show-account{
+    margin-top: 20px;
+    width: 70%;
+    
+   
+
+}
+.cantaine{
+    display: flex;
+    
+}
+#im{
+    margin-left: 50%;
+}
+#full-name{
+    font-size:20px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 48.3%;
+    font-weight: bold;
+}
+#skills{
+    margin-top: -15px;
+    margin-left: 45.5%;
+}
